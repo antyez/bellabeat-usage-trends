@@ -1,7 +1,19 @@
 # Product Usage Analysis for Health Tracking Devices
 
-## Main questions of this case study:
+Business task:
 
-1. Which months within the observed period show peak engagement and could guide marketing budget allocation?
-2. Can users be grouped into distinct behavioral segments to tailor marketing strategies?
-3. Can sleep inefficiency combined with low activity identify users at risk of disengagement who could benefit from targeted motivational campaigns?
+Identify key trends in smart device usage and behavioral patterns to improve Bellabeat’s global marketing strategy.
+
+Hypothesis:
+
+1. Is there a discernible pattern in user engagement over time?
+   Identifying these peaks can help determine when to concentrate budget and campaign efforts.
+   
+2. Can users be segmented based on their activity levels to create hyper-personalized marketing campaigns?
+   Identifying these distinct behavioral groups allows for more efficient targeting and resource allocation.
+   
+3. To what extent does our user base meet the industry-standard 10,000 steps daily threshold?
+   Identifying the gap between current activity and health recommendations can uncover opportunities for educational marketing and 'goal-setting' features
+
+
+
