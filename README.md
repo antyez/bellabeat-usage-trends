@@ -52,7 +52,7 @@
 
 <b>B. User Segmentation, Sedentary percentage by day & Sleep Gap: </b>
 
-![User Segment](images/user_segmentation.png)
+![User Segment](images/user_segment.png)
 
 ![Sedentary Percentage](images/sedentary_percentage_day.png)
 
