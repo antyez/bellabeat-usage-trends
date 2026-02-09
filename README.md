@@ -69,7 +69,7 @@ While 10,000 steps is widely accepted as the standard health goal, research indi
  - <b>Weekly Activity Trends:</b> Initial analysis shows that activity levels remain relatively close between weekdays and weekends, though there is a noticeable "Weekend Warrior" surge in specific segments.
  - <b>The Average Trap:</b> While it might seem that users struggle to meet their goals, "High Efficiency" and "Moderate" movers frequently exceed the 10K threshold. The overall average is primarily pulled down by the "Sedentary User" majority.
 
-![Acitivity Pattern by User Type](images/activity_patterns_user.png)
+![Acitivity Pattern by User Type](images/activity_pattern.png)
 
 <b>Finding:</b> The data indicates that the primary barrier is not lack of exercise intensity, but rather excessive sedentary time. There is a clear "friction barrier" that keeps Sedentary Users from transitioning to higher activity levels. To validate the 10K goal beyond marketing, I analyzed the correlation between user segments and energy expenditure. The data reveals a clear "Caloric Reward": High Efficiency Movers burn, on average, 1,000 more calories per day than Sedentary Users, this represents a powerful value proposition for the Bellabeat app. Instead of just tracking steps, the interface should visualize this "Metabolic Bonus", showing users the direct impact of reaching their step goals on their daily caloric burn.
 
