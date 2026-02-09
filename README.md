@@ -23,7 +23,7 @@ Bellabeat needs to understand how non-users interact with smart devices to refin
     
 -   **Tableau:** User Segmentation, Funnel Visualization, Trend Analysis, Dashboard Design.
     
--   **Google Apps Script / Excel:** ETL and statistical correlation.
+-   **Google Sheets / Excel:** ETL and statistical correlation.
     
 
 ### Results & Business Recommendation:
