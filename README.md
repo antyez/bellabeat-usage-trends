@@ -1,6 +1,6 @@
 ### Executive Summary:
 
-User retention and device engagement are critical for Bellabeat’s growth in the smart device market. Using **SQL, Tableau, and Excel**, I analyzed Fitbit user data to identify where engagement drops occur. I discovered that **40% of users are categorized as sedentary** and **31% fail to wear the device at night (Sleep Gap)**. I recommend implementing "Micro-movement" triggers and a "Metabolic Bonus" visualization, which could significantly increase daily active engagement and data retention.
+User retention and device engagement are critical for Bellabeat’s growth in the smart device market. Using **SQL, Tableau, and Excel**, I analyzed Fitbit user data to identify where engagement drops occur. I discovered that 40% of users are categorized as sedentary and 31% fail to wear the device at night (Sleep Gap). I recommend implementing "Micro-movement" triggers and a "Metabolic Bonus" visualization, which could significantly increase daily active engagement and data retention.
 
 ### Business Problem:
 
